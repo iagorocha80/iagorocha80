@@ -8,9 +8,12 @@
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Iago Gomes</h1>
+<h3 align="center">A passionate student and aspiring back-end developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iagorocha80" alt="iagorocha80" /></a> </p>
+
+- 🌱 I’m currently learning **Python, Java and Matlab**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
